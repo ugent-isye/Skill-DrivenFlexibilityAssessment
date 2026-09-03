@@ -7,7 +7,7 @@ This software quantifies how well a production resource functionally aligns with
 **ZAP name**  [Johannes Cottyn](mailto:Johannes.Cottyn@UGent.be)  
 **Website**  <http://www.ugent.be/m-f/en>, <https://www.isye.be/>
 
-**Download**  <https://github.com/ugent-isye/Skill-DrivenFlexibilityAssessment> — archived version: Zenodo DOI `[TODO]`
+**Download**  <https://github.com/ugent-isye/Skill-DrivenFlexibilityAssessment> — archived version: [![DOI](https://zenodo.org/badge/1355900217.svg)](https://doi.org/10.5281/zenodo.22279991)
 
 The code was developed at **Flanders Make @ UGent (Belgium)** in the context of various research projects on flexibility assessment.
 
